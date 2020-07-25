@@ -1,0 +1,23 @@
+{
+  "name": "saadho-dynamic",
+  "version": "0.0.1",
+  "description": "Saadho webapp ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrawaltarun/saadho.git"
+  },
+  "keywords": [
+    "node",
+    "web"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agrawaltarun/saadho/issues"
+  },
+  "homepage": "https://github.com/agrawaltarun/saadho#readme"
+}
